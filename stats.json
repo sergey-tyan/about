@@ -1,0 +1,64 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-hobbies-js": [
+      "component---src-pages-hobbies-js-a81cc12763052f90074f.js",
+      "component---src-pages-hobbies-js-a81cc12763052f90074f.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-19cab127ecd36629e7c5.js",
+      "component---src-pages-index-js-19cab127ecd36629e7c5.js.map"
+    ],
+    "path---contacts": [
+      "path---contacts-a0e39f21c11f6a62c5ab.js",
+      "path---contacts-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-cb157078729c1f697a60.js",
+      "component---src-layouts-index-js-cb157078729c1f697a60.js.map"
+    ],
+    "component---src-pages-contacts-js": [
+      "component---src-pages-contacts-js-a00c4483cab9feb5c2d2.js",
+      "component---src-pages-contacts-js-a00c4483cab9feb5c2d2.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-a706efda9882e3aecc8c.js",
+      "commons-a706efda9882e3aecc8c.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---portfolio": [
+      "path---portfolio-a0e39f21c11f6a62c5ab.js",
+      "path---portfolio-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---hobbies": [
+      "path---hobbies-a0e39f21c11f6a62c5ab.js",
+      "path---hobbies-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-312b90e88bd3c35202a5.js",
+      "app-312b90e88bd3c35202a5.js.map"
+    ],
+    "component---src-pages-portfolio-js": [
+      "component---src-pages-portfolio-js-3abad892662fedcac22a.js",
+      "component---src-pages-portfolio-js-3abad892662fedcac22a.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
