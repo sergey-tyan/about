@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import Helmet from 'react-helmet'
 
 import './index.css';
 
@@ -15,6 +16,16 @@ export default ({children}) =>
         maxWidth: 800,
         padding: `1.25rem 1rem`,
     }}>
+
+        <Helmet
+            title="About Sergey Tyan"
+            meta={[
+                { name: 'description', content: 'FullStack Software Developer Bio' },
+                { name: 'keywords', content: 'portfolio, javascript, react, react native, ios, java, nodejs, archery, drumming' },
+                { name: 'author', content:'Sergey Tyan'}
+            ]}
+        />
+
         <header style={{marginBottom: `1.5rem`}}>
             <Link to="/" style={{textShadow: `none`, backgroundImage: `none`}}>
                 <h3 style={{display: `inline`}}>yeah boi</h3>
