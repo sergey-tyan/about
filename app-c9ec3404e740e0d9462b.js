@@ -54,8 +54,8 @@ webpackJsonp([15178676390636814000],{
 	};
 	
 	exports.components = {
-	  "component---src-pages-contacts-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-contacts-js!./src/pages/contacts.js"),
 	  "component---src-pages-404-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-404-js!./src/pages/404.js"),
+	  "component---src-pages-contacts-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-contacts-js!./src/pages/contacts.js"),
 	  "component---src-pages-hobbies-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-hobbies-js!./src/pages/hobbies.js"),
 	  "component---src-pages-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-index-js!./src/pages/index.js"),
 	  "component---src-pages-portfolio-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-pages-portfolio-js!./src/pages/portfolio.js")
@@ -63,8 +63,8 @@ webpackJsonp([15178676390636814000],{
 	
 	exports.json = (_exports$json = {
 	  "layout-index.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"),
-	  "contacts.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---contacts!./.cache/json/contacts.json")
-	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["hobbies.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---hobbies!./.cache/json/hobbies.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["portfolio.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---portfolio!./.cache/json/portfolio.json"), _exports$json);
+	  "404.json": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404!./.cache/json/404.json")
+	}, _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["contacts.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---contacts!./.cache/json/contacts.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["hobbies.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---hobbies!./.cache/json/hobbies.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---index!./.cache/json/index.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["404-html.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---404-html!./.cache/json/404-html.json"), _exports$json["layout-index.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---!./.cache/json/layout-index.json"), _exports$json["portfolio.json"] = __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=path---portfolio!./.cache/json/portfolio.json"), _exports$json);
 	
 	exports.layouts = {
 	  "component---src-layouts-index-js": __webpack_require__("./node_modules/gatsby/dist/loaders/gatsby-module-loader/index.js?name=component---src-layouts-index-js!./.cache/layouts/index.js")
@@ -828,7 +828,7 @@ webpackJsonp([15178676390636814000],{
 /***/ "./.cache/pages.json":
 /***/ (function(module, exports) {
 
-	module.exports = [{"componentChunkName":"component---src-pages-contacts-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"contacts.json","path":"/contacts/"},{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404.json","path":"/404/"},{"componentChunkName":"component---src-pages-hobbies-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"hobbies.json","path":"/hobbies/"},{"componentChunkName":"component---src-pages-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"index.json","path":"/"},{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404-html.json","path":"/404.html"},{"componentChunkName":"component---src-pages-portfolio-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"portfolio.json","path":"/portfolio/"}]
+	module.exports = [{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404.json","path":"/404/"},{"componentChunkName":"component---src-pages-contacts-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"contacts.json","path":"/contacts/"},{"componentChunkName":"component---src-pages-hobbies-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"hobbies.json","path":"/hobbies/"},{"componentChunkName":"component---src-pages-index-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"index.json","path":"/"},{"componentChunkName":"component---src-pages-404-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"404-html.json","path":"/404.html"},{"componentChunkName":"component---src-pages-portfolio-js","layout":"index","layoutComponentChunkName":"component---src-layouts-index-js","jsonName":"portfolio.json","path":"/portfolio/"}]
 
 /***/ }),
 
@@ -4029,10 +4029,8 @@ webpackJsonp([15178676390636814000],{
 /***/ "./node_modules/isarray/index.js":
 /***/ (function(module, exports) {
 
-	var toString = {}.toString;
-	
 	module.exports = Array.isArray || function (arr) {
-	  return toString.call(arr) == '[object Array]';
+	  return Object.prototype.toString.call(arr) == '[object Array]';
 	};
 
 
@@ -29569,4 +29567,4 @@ webpackJsonp([15178676390636814000],{
 /***/ })
 
 });
-//# sourceMappingURL=app-fb2b56928fae77ae841f.js.map
+//# sourceMappingURL=app-c9ec3404e740e0d9462b.js.map
